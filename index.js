@@ -19,7 +19,6 @@ console.log(greetings.sayHello(name));
 console.log(colors.yellow(greetings.sayHello(name)));    // using custom and third-party module combined
 */
 
-
 // ESM - ECMASCRIPT MODULE
 // Named Import
 /*
@@ -153,75 +152,4 @@ loader();
 
  */
 
-
-console.log('hello from dev_one branch');
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+console.log("hello from dev_one branch");
